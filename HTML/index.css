@@ -1,0 +1,9 @@
+/* css document */
+body{
+    background-color: aqua;
+    color:blueviolet;
+}
+div#demo1 {color: brown}
+div#demo2 {color: black}
+#demo3 {color: rgb(247, 24, 24)}
+#demo4 {color: rgb(0, 0, 0)}
